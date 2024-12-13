@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to the PersonalProject! This program allows you to check the air quality in major cities around the world and download the data as a CSV file. The program interacts with the AirVisual API to fetch real-time air quality data.
+Welcome to the Program! This program allows you to check the air quality in major cities around the world and download the data as a CSV file. The program interacts with the AirVisual API to fetch real-time air quality data.
 
 ## Features
 
